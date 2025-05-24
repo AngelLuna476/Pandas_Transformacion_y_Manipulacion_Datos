@@ -1,4 +1,4 @@
-<h1 align="center">Pandas: Trasnformación y Manipulación de datos</h1>
+<h1 align="center">Pandas: Transformación y Manipulación de datos</h1>
 
 <p align="center"><strong><em>Programa de especialización de la formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM</em></strong></p>
 
